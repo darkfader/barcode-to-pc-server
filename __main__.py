@@ -3,7 +3,7 @@
 
 import logging
 import asyncio
-from barcode_to_pc import Server
+from barcode_to_pc.barcode_to_pc import Server
 
 
 async def main(server):
